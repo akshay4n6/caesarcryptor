@@ -1,6 +1,4 @@
-# caesarcryptor
-# Text Encryption and Decryption Tool (GUI) using Caesar Cipher
-# Text Encryption Tool by Akshay
+# caesarcryptor - Text Encryption and Decryption Tool (GUI) using Caesar Cipher
 
 This Python GUI application allows users to encrypt and decrypt messages using the Caesar cipher technique. The Caesar cipher is one of the simplest and most widely known encryption techniques, where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
